@@ -84,7 +84,7 @@ const moderator = new OpenAIModerator({
   moderate: "both",
 });
 
-//define prompt Manager 
+//define prompt Manager to describe behavior of OpenAI
 const promptManager = new DefaultPromptManager(path.join(__dirname, "./prompts"));
 
 //define storage
