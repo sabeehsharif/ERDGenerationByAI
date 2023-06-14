@@ -8,7 +8,7 @@ This repository created for learning purpose to integrate AI with Teams SDK and 
 - It's difficult to identify columns names on runtime or data types. </br>
 - Challenging to find relations between entities. </br>
 - Constraints to apply on entities' to avoid data gap. </br>
-# Features 
+## Features 
 - So i have developed such bot which is integrated with OpenAI just give your problem in text form Bot will return you ERD description with entities names, Data types, relations with constraints.
 
 ## Prerequisites
@@ -21,3 +21,8 @@ This repository created for learning purpose to integrate AI with Teams SDK and 
 
 - [Bot Framework Documentation](https://docs.botframework.com/)
 - [OpenAI Introduction](https://platform.openai.com/ai-text-classifier)
+
+## Screenshots of working project
+![LearnAndWelcome](https://github.com/sabeehsharif/ERDGenerationByAI/assets/50944211/76e56c4c-da4d-4032-90d2-29ae306d7f3f)
+
+![HiResponse](https://github.com/sabeehsharif/ERDGenerationByAI/assets/50944211/8bd66b99-c24e-40ec-a8ec-3745be805649)
