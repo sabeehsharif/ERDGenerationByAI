@@ -1,0 +1,9 @@
+
+Describe the relationship between two entities: 
+What type of relationship does it create? 
+What type of structure should be used to depict this relationship? 
+Do any additional constraints have to be added?
+
+    {{$history}}
+    Human: {{$input}}
+    ErdAI:
