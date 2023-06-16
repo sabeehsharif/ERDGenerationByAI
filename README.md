@@ -23,6 +23,11 @@ This repository created for learning purpose to integrate AI with Teams SDK and 
 - [OpenAI Introduction](https://platform.openai.com/ai-text-classifier)
 
 ## Screenshots of working project
-![LearnAndWelcome](https://github.com/sabeehsharif/ERDGenerationByAI/assets/50944211/76e56c4c-da4d-4032-90d2-29ae306d7f3f)
 
-![HiResponse](https://github.com/sabeehsharif/ERDGenerationByAI/assets/50944211/8bd66b99-c24e-40ec-a8ec-3745be805649)
+##Learn and Welcome Prompt
+
+![LearnAndWelcome](https://github.com/sabeehsharif/ERDGenerationByAI/assets/50944211/5b532c33-5ef6-4e96-ae46-8a3113403182)
+
+##OpenAIResponse
+
+![HiResponse](https://github.com/sabeehsharif/ERDGenerationByAI/assets/50944211/58689047-db97-493a-ae10-1cf092178896)
